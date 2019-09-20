@@ -1,0 +1,12 @@
+{
+    "name": "mitlibraries/mitlib-broken",
+    "description": "A broken WordPress plugin",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Matt Bernhardt",
+            "email": "mjbernha@mit.edu"
+        }
+    ],
+    "require": {}
+}
